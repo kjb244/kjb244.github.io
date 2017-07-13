@@ -62,7 +62,7 @@ nav * {
   height: 280px;
   width: 280px;
   margin: auto;
-  background-image: url("../images/main/engagement-module/cuplux-drive-thru.png");
+  background-image: url("/images/main/engagement-module/cuplux-drive-thru.png");
   background-size: 100% 100%; }
   @media only screen and (min-width: 40.0625em) and (max-width: 64em) {
     [data-module-engagement-module] .background-image-header-main {
@@ -102,7 +102,7 @@ nav * {
     [data-module-engagement-module] nav .top-bar-section ul .current {
       text-decoration: underline; } }
  [data-module-one-column-image-module].data-module-rewards-bloc-card .image-bloc-card {
-  background: url("../images/main/one-column-image-module/bloc_card.jpg") no-repeat center center;
+  background: url("/images/main/one-column-image-module/bloc_card.jpg") no-repeat center center;
   background-size: 270px 270px;
   height: 200px; }
   @media only screen and (min-width: 40.0625em) and (max-width: 64em) {
@@ -113,7 +113,7 @@ nav * {
       background-size: 340px 340px; } }
 
 [data-module-one-column-image-module].data-module-rewards-how-does-it-work .image-how-does-it-work {
-  background: url("../images/main/one-column-image-module/bloc-card-savings.jpg") no-repeat center center;
+  background: url("/images/main/one-column-image-module/bloc-card-savings.jpg") no-repeat center center;
   background-size: contain;
   height: 200px; }
   @media only screen and (min-width: 40.0625em) and (max-width: 64em) {
@@ -136,7 +136,7 @@ nav * {
     margin-top: 25px; } }
 
 [data-module-one-column-image-module].data-module-about .image-bloc-card {
-  background: url("../images/main/one-column-image-module/bloc_card.jpg") no-repeat center center;
+  background: url("/images/main/one-column-image-module/bloc_card.jpg") no-repeat center center;
   background-size: 270px 270px;
   height: 200px; }
   @media only screen and (min-width: 40.0625em) and (max-width: 64em) {

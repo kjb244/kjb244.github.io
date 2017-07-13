@@ -42,7 +42,8 @@ $(document).ready(function(){  var main = function(){
 		var $exclusionsRestrictionsLink = settings.$target.find('#exclusions-restrictions-link');
 		$exclusionsRestrictionsLink.on('click', function(){
 			$(this).closest('.row').find('.row').first().slideToggle();
-		})
+		});
+
 
 	}
 
